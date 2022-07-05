@@ -1,1 +1,4 @@
-alert("Bem Vindo!")
+
+function meuAlerta() {
+    alert("Bem Vindo!")
+}
