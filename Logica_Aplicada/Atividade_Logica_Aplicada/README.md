@@ -1,15 +1,16 @@
-# Atividade Node.js
+# Atividade Node.js :bulb:
 
-## - Atividades If - Básico
-
-
-1. Escreva um programa para ler o ano de nascimento de uma pessoa e escrever uma mensagem que diga se ela poderá ou não votar este ano (não é necessário considerar o mês em que ela nasceu).
+## - Atividades If - Básico :pencil2:
 
 
-2. Faça um programa que receba um número do usuário e verifique se este número é par ou ímpar, escreva na tela "PAR" ou "ÍMPAR".
+:pushpin: 1 - Escreva um programa para ler o ano de nascimento de uma pessoa e escrever uma mensagem que diga se ela poderá ou não votar este
+ano (não é necessário considerar o mês em que ela nasceu).
 
 
-3. Escreva um programa que verifique a validade de uma senha fornecida pelo usuário.
+:pushpin: 2 - Faça um programa que receba um número do usuário e verifique se este número é par ou ímpar, escreva na tela "PAR" ou "ÍMPAR".
+
+
+:pushpin: 3 - Escreva um programa que verifique a validade de uma senha fornecida pelo usuário.
 A senha válida é o número 1234.
   Devem ser impressas as seguintes mensagens:
 - ACESSO PERMITIDO caso a senha seja válida.
