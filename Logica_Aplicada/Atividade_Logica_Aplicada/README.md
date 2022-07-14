@@ -1,7 +1,4 @@
-# Atividade Node.js :bulb:
-
-## - Atividades If - Básico :pencil2:
-
+# :bulb: Atividades Node.js :bulb:
 
 :pushpin: 1 - Escreva um programa para ler o ano de nascimento de uma pessoa e escrever uma mensagem que diga se ela poderá ou não votar este
 ano (não é necessário considerar o mês em que ela nasceu).
@@ -15,3 +12,7 @@ A senha válida é o número 1234.
   Devem ser impressas as seguintes mensagens:
 - ACESSO PERMITIDO caso a senha seja válida.
 - ACESSO NEGADO caso a senha seja inválida.
+
+:pushpin: 4 - As maçãs custam R$0,30 cada se forem compradas menos do que 12, e R$0,25 se forem compradas 12 ou mais. Escreva um programa que leia o número de maças compradas, calcule e escreva o valor total da compra.
+
+:pushpin: 5 - Escreva um programa para ler 3 valores interios e escrevê-los em ordem crescente.  
