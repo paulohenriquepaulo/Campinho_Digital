@@ -4,14 +4,14 @@ let contador = 0;
 
 while (contador < 3) {
     let numeroExistente = false;
-    let numero = rs.questionInt('\nInforme um numero: ');
+    let numero = parseInt(rs.question('\nInforme um numero: '));
     if (contador == 0) {
         arrayNumeros.push(numero);
         contador++;
     } else {
         for (i = 0; i < arrayNumeros.length; i++) {
             if (arrayNumeros[i] == numero) {
-                console.log('\nValor já existente\n');
+                console.log('\nValor já existente. ');
                 numeroExistente = true;
                 break;
             }
@@ -22,9 +22,6 @@ while (contador < 3) {
         }
     }
 }
-
-arrayNumeros.sort();
-console.log(arrayNumeros);
-
-
+console.log('\nA ordem que foi inserido os numeros: ' + arrayNumeros);
+console.log('A ordem depois de ordenar de forma crescente: ' + arrayNumeros.sort(function(a, b) {return a - b} ));
 
