@@ -24,4 +24,5 @@ while (contador < 3) {
 }
 console.log('\nA ordem que foi inserido os numeros: ' + arrayNumeros);
 console.log('A ordem depois de ordenar de forma crescente: ' + arrayNumeros.sort(function(a, b) {return a - b} ));
+console.log('A ordem depois de ordenar de forma decrescente: ' + arrayNumeros.sort(function(a, b) {return b - a} ));
 
