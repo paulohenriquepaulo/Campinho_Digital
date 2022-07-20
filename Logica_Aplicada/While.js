@@ -8,8 +8,6 @@ while(numeroFatorial > 1 ) {
     resultado = numeroFatorial * resultado;
     numeroFatorial = numeroFatorial - 1;
     if (numeroFatorial > 1) {
-        
     }
 }
-
 console.log(resultado);
