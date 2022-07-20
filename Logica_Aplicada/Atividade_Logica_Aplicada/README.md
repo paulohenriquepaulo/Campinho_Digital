@@ -16,3 +16,8 @@ A senha válida é o número 1234.
 :pushpin: 4 - As maçãs custam R$0,30 cada se forem compradas menos do que 12, e R$0,25 se forem compradas 12 ou mais. Escreva um programa que leia o número de maças compradas, calcule e escreva o valor total da compra.
 
 :pushpin: 5 - Escreva um programa para ler 3 valores interios e escrevê-los em ordem crescente.  
+
+:pushpin: 6 - Faça um programa onde o usuário tenta adivinhar um número entre 1 e 50.
+Se ele errar o chute, peça novamente o número.
+Caso ele acerte, dê uma mensagem de
+parabenização e mostre um poema
